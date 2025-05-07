@@ -9,7 +9,7 @@ Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensi
     <img 
       alt="Visualizações de perfil" 
       title="Visualizações do meu perfil" 
-      src="https://img.shields.io/badge/Visualizações-🔁%20--%20-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=800080&color=800080" 
+      src="https://img.shields.io/badge/Visualizações-%20--%20-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=800080&color=800080" 
     />
   </a>
 </p>
@@ -79,8 +79,6 @@ Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensi
 <br/>
 ---
 
-
-### 📫 Contato
 
 ### 📫 Contato
 
