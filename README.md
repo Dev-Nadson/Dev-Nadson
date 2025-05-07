@@ -77,6 +77,7 @@ Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensi
 - Git e GitHub para controle de versões.
 - GDScript para desenvolvimento de jogos 2D.
 <br/>
+
 ---
 
 
