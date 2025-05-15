@@ -55,25 +55,9 @@ Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensi
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nadson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-
-
 ### 📚 O que estou estudando agora
 
-- Fundamentos de lógica e algoritmos com C.
+- Fundamentos de lógica e algoritmos com Python.
 - Git e GitHub para controle de versões.
 - GDScript para desenvolvimento de jogos 2D.
 <br/>
