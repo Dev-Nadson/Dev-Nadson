@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na EREM Panelas e, atualmente, curso Ciência da Computação na Unifavip Wyden, com bolsa integral do PROUNI.
+👋 Olá! Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na EREM Panelas e atualmente curso Ciência da Computação na Unifavip Wyden, com bolsa integral do PROUNI.
 
 <p align="left">
   <a href="https://github.com/Dev-Nadson">
