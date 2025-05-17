@@ -57,9 +57,10 @@ Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensi
 
 ### 📚 O que estou estudando agora
 
-- Fundamentos de lógica e algoritmos com Python.
+- Python para automações de tarefas
+- DevWeb Python com Flask
+- Iniciando na análise de dados com python
 - Git e GitHub para controle de versões.
-- GDScript para desenvolvimento de jogos 2D.
 <br/>
 
 ---
