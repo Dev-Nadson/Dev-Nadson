@@ -62,9 +62,30 @@
 - Iniciando na análise de dados com python
 - Git e GitHub para controle de versões.
 <br/>
-
 ---
 
+### 🟣 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Nadson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nadson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
 
 ### 📫 Contato
 
