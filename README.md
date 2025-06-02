@@ -60,9 +60,9 @@
 ### 📚 O que estou estudando agora
 
 - Python para automações de tarefas  
-- Desenvolvimento web com Flask  
-- Iniciando na análise de dados com Python  
-- Git e GitHub para controle de versões  
+- Desenvolvimento de aplicações CRUD com Python 
+- Iniciando estudos em PostgreSQL e SQLalchemy
+- Comandos em Linux 
 
 ---
 
