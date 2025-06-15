@@ -4,16 +4,6 @@
 
 👋 Olá! Me chamo Nadson Alex, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na EREM Panelas e atualmente curso Ciência da Computação na Unifavip Wyden, com bolsa integral do PROUNI.
 
-<p align="left">
-  <a href="https://github.com/Dev-Nadson">
-    <img 
-      alt="Visualizações de perfil" 
-      title="Visualizações do meu perfil" 
-      src="https://img.shields.io/badge/Visualizações-%20--%20-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=800080&color=800080" 
-    />
-  </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
