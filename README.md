@@ -80,15 +80,15 @@
 ### 📚 O que estou estudando agora
 
 - Python para automações de tarefas  
-- Desenvolvimento de aplicações CRUD com Python 
-- Iniciando estudos em PostgreSQL e SQLalchemy
-- Comandos em Linux 
+- Desenvolvimento de aplicações CRUD com Nodejs e Fastify
+- Iniciando estudos em PostgreSQL e Docker
+- Foco em desenvolvimento Back-end
 
 ---
 
 ### 🟣 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     alt="Top Langs" 
     height="200" 
