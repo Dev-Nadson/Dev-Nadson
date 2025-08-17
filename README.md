@@ -88,7 +88,7 @@
 
 ### 🟣 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
     alt="Top Langs" 
     height="200" 
