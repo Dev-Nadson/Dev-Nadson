@@ -10,7 +10,7 @@ Atualmente construo projetos com Python, FastAPI, Node.js e Fastify, utilizando 
 <div align="center">
 
 ### 🤖 Linguagens e Tecnologias
-<br/>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
