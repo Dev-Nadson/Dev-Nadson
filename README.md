@@ -3,8 +3,9 @@
 **`Desenvolvedor Back-end | Entusiasta de Python & Node.js`**
 
 👋 Olá! Me chamo Nadson Alex, tenho 18 anos, natural de Pernambuco e atualmente curso Ciências da Computação na Unifavip Wyden, com bolsa integral do PROUNI.<br/>
-Sou um desenvolvedor em formação com foco em aplicações back-end, automações e APIs.
+<p>Sou um desenvolvedor em formação com foco em aplicações back-end, automações e APIs.
 Atualmente construo projetos com Python, FastAPI, Node.js e Fastify, utilizando PostgreSQL, SQLite como banco de dados e ferramentas como Docker e Insomnia.
+</p>
 
 ---
 <div align="center">
