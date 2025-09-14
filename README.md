@@ -39,7 +39,7 @@ Atualmente construo projetos com Python, FastAPI, Node.js e Fastify, utilizando 
 
 ---
 
-### 📚 Áreas de Interesse
+### 📚 O que estou estudando agora:
 
 - Desenvolvimento de **APIs REST**  
 - Automação de tarefas com Python  
