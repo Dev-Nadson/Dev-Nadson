@@ -43,8 +43,8 @@ Atualmente construo projetos com Python, FastAPI, Node.js e Fastify, utilizando 
 
 - Desenvolvimento de **APIs REST**  
 - Automação de tarefas com Python  
-- Banco de dados relacionais (**PostgreSQL, SQLite**)  
-- Infraestrutura de containers com **Docker** 
+- Next.js para aplicações frontend robustas  
+- Tailwind CSS focado em reponsividade
 
 ---
 
