@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Fullstack | Entusiasta em Node.js & Python`**
 
-Olá! Sou **Nadson Alex**, desenvolvedor fullstack em formação, com 19 anos, pernambucano e estudante de **Ciência da Computação** na Unifavip Wyden com bolsa integral pelo **PROUNI**.
-Atualmente foco meus estudos e projetos em **APIs, back-end, automações e aplicações web**, trabalhando principalmente com **Node.js**,Fastify,PostgreSQL e SQLite. Também utilizo Docker, Git
+Olá! Sou **Nadson Alex**, desenvolvedor fullstack em formação, com 19 anos, pernambucano e estudante de **Ciência da Computação** na Unifavip Wyden com bolsa integral pelo PROUNI.
+Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, trabalhando principalmente com Node.js, Typescript, Fastify, e PostgreSQL.
 
 ---
 
