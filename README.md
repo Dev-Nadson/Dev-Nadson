@@ -56,7 +56,7 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
 
 ## 📚 O que estou estudando agora:
 
-* APIs REST e design avançado
+* APIs REST
 * Automação de tarefas com Python
 * Next.js para aplicações completas e performáticas
 * React Native para apps móveis
