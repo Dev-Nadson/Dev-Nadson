@@ -63,7 +63,7 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
 * Tailwind CSS com foco em responsividade
 
 ---
-<!-- 
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -92,7 +92,7 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
 </p>
 
 ---
- -->
+ 
 ## 📫 Contato
 
 <table>
