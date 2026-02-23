@@ -67,6 +67,7 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
 
 ## 📊 Estatísticas do GitHub
 
+<!--
 <p align="left">
   <img 
     alt="Top Langs" 
@@ -82,6 +83,7 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
     src="https://github-readme-stats.vercel.app/api?username=Dev-Nadson&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" 
   />
 </p>
+-->
 
 <p align="left">
   <img 
