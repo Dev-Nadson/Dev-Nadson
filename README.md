@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Fullstack | Entusiasta em Node.js & Python`**
 
-Olá! Sou **Nadson Alex**, desenvolvedor fullstack em formação pernambucano e estudante de **Ciências da Computação** na Unifavip Wyden com bolsa integral pelo PROUNI.
-Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, trabalhando principalmente com Node.js, Typescript, Fastify, e PostgreSQL.
+Olá! Sou **Nadson Alex**, desenvolvedor fullstack pernambucano e estudante de **Ciências da Computação** na Unifavip Wyden com bolsa integral pelo PROUNI.
+Atualmente foco meus estudos e projetos em Aplicações Web Robustas para ampliar meus conhecimentos, trabalhando principalmente com Node.js, Typescript, Fastify, e PostgreSQL.
 
 ---
 
@@ -16,11 +16,12 @@ Atualmente foco meus estudos e projetos em APIs back-end e aplicações web, tra
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white""/>
   <img src="https://img.shields.io/badge/Knex.js-D26B32?style=for-the-badge&logo=knexdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
