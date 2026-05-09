@@ -65,7 +65,6 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
 
 ---
 
-
 ## 📊 Estatísticas do GitHub
 
 <!--
