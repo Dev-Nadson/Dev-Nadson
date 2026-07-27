@@ -60,7 +60,7 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
 * Automação de tarefas com Python
 * System Design para aplicações escaláveis
 * Api Gateways para micro-serviços
-* Pulumi e AWS para IaC - Infra as Code
+* Pulumi e AWS para IaC (Infra as Code)
 * Filas com Redis e BullMQ
 
 ---
