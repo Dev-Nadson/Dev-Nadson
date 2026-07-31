@@ -20,6 +20,8 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white""/>
   <img src="https://img.shields.io/badge/Knex.js-D26B32?style=for-the-badge&logo=knexdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -50,6 +52,7 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -76,25 +79,17 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
 
 <p align="left">
   <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nadson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Nadson&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" 
-  />
-</p>
-
-<p align="left">
-  <img 
     alt="GitHub Streak" 
     height="200" 
     src="https://streak-stats.demolab.com?user=Dev-Nadson&theme=tokyonight&hide_border=false" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dev-Nadson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
 
