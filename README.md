@@ -3,7 +3,7 @@
 **`Desenvolvedor Fullstack | Entusiasta em Node.js & Python`**
 
 Olá! Sou **Nadson Alex**, desenvolvedor fullstack pernambucano e estudante de **Ciências da Computação** na Unifavip Wyden com bolsa integral pelo PROUNI.
-Atualmente foco meus estudos e projetos em Aplicações Web Robustas para ampliar meus conhecimentos, trabalhando principalmente com Node.js, Typescript, Fastify,NestJs e PostgreSQL.
+Atualmente foco meus estudos e projetos em Aplicações Web Robustas para ampliar meus conhecimentos, trabalhando principalmente com Node.js, Typescript, Fastify, NestJs e PostgreSQL.
 
 ---
 
