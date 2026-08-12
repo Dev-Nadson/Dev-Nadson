@@ -77,19 +77,19 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img 
-    alt="GitHub Streak" 
-    height="200" 
-    src="https://streak-stats.demolab.com?user=Dev-Nadson&theme=tokyonight&hide_border=false" 
-  />
-</p>
-
-<p align="left">
+<p align="center">
   <img 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dev-Nadson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="GitHub Streak" 
+    height="200" 
+    src="https://streak-stats.vercel.app?user=Dev-Nadson&theme=tokyonight&hide_border=false" 
   />
 </p>
 
