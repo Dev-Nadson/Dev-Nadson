@@ -67,7 +67,7 @@ Atualmente foco meus estudos e projetos em Aplicações Web Robustas para amplia
 
 ## 📚 O que estou estudando agora:
 
-* Automação de tarefas com Python
+* Automação de tarefas com Python e UV
 * System Design para aplicações escaláveis
 * Api Gateways com micro-serviços
 * Pulumi e AWS para IaC (Infra as Code)
